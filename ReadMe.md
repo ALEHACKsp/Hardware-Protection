@@ -1,13 +1,11 @@
 # Hardware-Protection
 
-//////////////////////////////////////////
-//
-//	Project Name:	Hardware Protection
-//	Version Nr.:	v1.0
-//	Developer:		Kage
-//	Webseite:		www.auxilium.cc
-//
-//////////////////////////////////////////
+
+- Project Name:		Hardware Protection
+- Version Nr.:		v1.0
+- Developer:		Kage
+- Webseite:			www.auxilium.cc
+
 
 
 Description:
